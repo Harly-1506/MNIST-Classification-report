@@ -1,3 +1,4 @@
 # MNIST-Classification-report
 
-< Basic ANN and CNN with MNIST dataset
+
+> Basic ANN and CNN with MNIST dataset
